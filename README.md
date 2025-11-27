@@ -1,12 +1,13 @@
 <h2 align="left">Hi 👋! My name is Muhammad Daris</h2>
 
+<img align="right" height="58" src="https://media.tenor.com/PcTVZK3aROQAAAAi/albanie.gif"  />
+
 ###
 
 ###
 
 <br clear="both">
 
-<img align="right" height="58" src="https://media.tenor.com/PcTVZK3aROQAAAAi/albanie.gif"  />
 
 ###
 <h2 align="left">Tech Stack</h2>
